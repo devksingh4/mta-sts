@@ -1,6 +1,0 @@
-version: STSv1
-mode: enforce
-mx: devksingh-com.mail.protection.outlook.com
-mx: box.devksingh.com
-mx: mail.devksingh.com
-max_age: 604800
